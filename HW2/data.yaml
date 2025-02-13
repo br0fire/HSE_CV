@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: /home/br0fire/Progs/HSE_CV/HW2/datasets/train/images
+val: /home/br0fire/Progs/HSE_CV/HW2/datasets/valid/images
+test: /home/br0fire/Progs/HSE_CV/HW2/datasets/test/images
 
 nc: 1
 names: ['airplane']
